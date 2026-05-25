@@ -64,6 +64,7 @@ Google Colab
  GitHub
 
 •	Version control
+
 •	Organising and working on the project together
 
 
